@@ -1,9 +1,7 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
-tags:
+name: sixneurons
+title: sixneurons | A new way build Neurons
+description: sixneurons is a the way of fastest neurons
   - blog
   - template
   - jekyll
