@@ -38,6 +38,14 @@ footer {
   color: #1B4D3E;
   text-decoration: none;
 }
+
+
+.title {
+  text-align: center;
+  padding: 10px; /* Add padding for spacing between members */
+  color: #000080; 
+}
+
   @include center(rem(800px));
   border-top: 1px solid darken($accentDark, 10%);
   background: $accentDark;
@@ -149,6 +157,11 @@ footer {
   margin-bottom: 3px;
   color: #1B4D3E;
   text-decoration: none;
+}
+.title {
+  text-align: center;
+  padding: 10px; /* Add padding for spacing between members */
+  color: #000080; 
 }
 
   }
