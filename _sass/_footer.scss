@@ -35,7 +35,7 @@ footer {
   display: block; /* Make the name take full width */
   font-weight: bold;
   margin-bottom: 3px;
-  color: #1B4D3E;
+  color: #28a8e1;
   text-decoration: none;
 }
 
@@ -43,7 +43,7 @@ footer {
 .title {
   text-align: center;
   padding: 10px; /* Add padding for spacing between members */
-  color: #000080; 
+  color: #1B4D3E; 
 }
 
   @include center(rem(800px));
@@ -155,13 +155,13 @@ footer {
   display: block; /* Make the name take full width */
   font-weight: bold;
   margin-bottom: 3px;
-  color: #1B4D3E;
+  color: #28a8e1;
   text-decoration: none;
 }
 .title {
   text-align: center;
   padding: 10px; /* Add padding for spacing between members */
-  color: #000080; 
+  color: #1B4D3E;  
 }
 
   }
