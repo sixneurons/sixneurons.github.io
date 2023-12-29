@@ -1,0 +1,15 @@
+---
+layout: author
+photo: /assets/img/anis_pic.png
+name: mranderson
+display_name: Anis Taluqdar
+position: The One
+bio: Bulletproof hacker passionate about leather clothes.
+github_username: AnisTaluqdar
+facebook_username: AnisTaluqdarBD
+twitter_username: AnisTaluqdar
+instagram_username: AnisTaluqdar
+linkedin_username: AnisTaluqdar
+medium_username: AnisTaluqdar
+---
+
