@@ -11,6 +11,33 @@
 }
 
 footer {
+
+   .group-members {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start; /* Align items at the top */
+  margin-top: 20px;
+}
+
+.member {
+  text-align: center;
+  padding: 10px; /* Add padding for spacing between members */
+}
+
+.profile-pic {
+  width: 80px; /* Adjust the size of the profile pictures */
+  height: 80px; /* Adjust the size of the profile pictures */
+  border-radius: 50%;
+  margin-bottom: 5px;
+}
+
+.member a {
+  display: block; /* Make the name take full width */
+  font-weight: bold;
+  margin-bottom: 3px;
+  color: #1B4D3E;
+  text-decoration: none;
+}
   @include center(rem(800px));
   border-top: 1px solid darken($accentDark, 10%);
   background: $accentDark;
