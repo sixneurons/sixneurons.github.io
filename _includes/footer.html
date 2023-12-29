@@ -1,7 +1,7 @@
 <footer>
   <div class="member">
     <img src="member1.jpg" alt="Member 1">
-    <div>
+    <div class="member-details">
       <p>Name: John Doe</p>
       <p>
         {% if site.github_username %}
@@ -15,7 +15,7 @@
 
   <div class="member">
     <img src="member2.jpg" alt="Member 2">
-    <div>
+    <div class="member-details">
       <p>Name: Jane Smith</p>
       <p>
         {% if site.github_username %}
@@ -29,37 +29,42 @@
 
   <!-- Add more member sections as needed -->
 
-  <!-- Your existing social media links code can remain unchanged -->
-  <!-- Add your existing code for social media links here -->
+  <div class="social-links">
+    <p>
+      {% if site.github_username %}
+        <a href="https://github.com/{{ site.github_username }}" title="Github">
+          <svg><!-- GitHub icon SVG --></svg>
+        </a>
+      {% endif %}
+      {% if site.facebook_username %}
+        <a href="https://www.facebook.com/{{ site.facebook_username }}" title="Facebook">
+          <svg><!-- Facebook icon SVG --></svg>
+        </a>
+      {% endif %}
+      {% if site.twitter_username %}
+        <a href="https://twitter.com/{{ site.twitter_username }}" title="Twitter">
+          <svg><!-- Twitter icon SVG --></svg>
+        </a>
+      {% endif %}
+      {% if site.medium_username %}
+        <a href="https://medium.com/@{{ site.medium_username }}" title="Medium">
+          <svg><!-- Medium icon SVG --></svg>
+        </a>
+      {% endif %}
+      {% if site.instagram_username %}
+        <a href="https://www.instagram.com/{{ site.instagram_username }}" title="Instagram">
+          <svg><!-- Instagram icon SVG --></svg>
+        </a>
+      {% endif %}
+      {% if site.linkedin_username %}
+        <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" title="LinkedIn">
+          <svg><!-- LinkedIn icon SVG --></svg>
+        </a>
+      {% endif %}
+    </p>
+  </div>
+
 </footer>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
