@@ -1,32 +1,3 @@
-/* CSS Styles for the group member section */
-
-.group-members {
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
-  margin-top: 20px;
-}
-
-.member {
-  text-align: center;
-}
-
-.profile-pic {
-  width: 80px; /* Adjust the size of the profile pictures */
-  height: 80px; /* Adjust the size of the profile pictures */
-  border-radius: 50%;
-  margin-bottom: 5px;
-}
-
-.member-name {
-  font-weight: bold;
-  margin-bottom: 3px;
-}
-
-.github-url {
-  text-decoration: none;
-  color: #333;
-}
 
 
 .comments {
@@ -126,4 +97,35 @@ footer {
       color: $accentDark;
     }
   }
+
+  /* CSS Styles for the group member section */
+
+.group-members {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.member {
+  text-align: center;
+}
+
+.profile-pic {
+  width: 80px; /* Adjust the size of the profile pictures */
+  height: 80px; /* Adjust the size of the profile pictures */
+  border-radius: 50%;
+  margin-bottom: 5px;
+}
+
+.member-name {
+  font-weight: bold;
+  margin-bottom: 3px;
+}
+
+.github-url {
+  text-decoration: none;
+  color: #333;
+}
+
 }
