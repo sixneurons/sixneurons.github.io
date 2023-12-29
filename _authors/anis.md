@@ -1,7 +1,7 @@
 ---
 layout: author
 photo: /assets/img/anis_pic.png
-name: mranderson
+name: anis
 display_name: Anis Taluqdar
 position: The One
 bio: Bulletproof hacker passionate about leather clothes.
