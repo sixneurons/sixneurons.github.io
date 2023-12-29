@@ -97,17 +97,16 @@ footer {
       color: $accentDark;
     }
 
-  /* CSS Styles for the group member section */
-
-.group-members {
+ .group-members {
   display: flex;
   justify-content: space-around;
-  align-items: center;
+  align-items: flex-start; /* Align items at the top */
   margin-top: 20px;
 }
 
 .member {
   text-align: center;
+  padding: 10px; /* Add padding for spacing between members */
 }
 
 .profile-pic {
@@ -117,16 +116,13 @@ footer {
   margin-bottom: 5px;
 }
 
-.member-name {
+.member a {
+  display: block; /* Make the name take full width */
   font-weight: bold;
   margin-bottom: 3px;
   color: #1B4D3E;
+  text-decoration: none;
 }
 
-.github-url {
-  text-decoration: none;
-  color: #1B4D3E;
-}
-    
   }
 }
