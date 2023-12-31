@@ -131,38 +131,40 @@ footer {
     p {
       color: $accentDark;
     }
-
-@media only screen and (max-width: 768px) {
-  .group-members {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
   }
 
-  .member {
-    width: 100%;
-    text-align: center;
-    margin-bottom: 20px;
+  @media only screen and (max-width: 768px) {
+    .group-members {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+
+      .member {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 20px;
+      }
+
+      .profile-pic {
+        width: 50%; /* Adjust image size as needed */
+        height: auto;
+        margin: 0 auto;
+      }
+
+      .title,
+      .github-url {
+        margin-top: 10px;
+      }
+    }
   }
 
-  .profile-pic {
-    width: 50%; / Adjust image size as needed /
-    height: auto;
-    margin: 0 auto;
-  }
-
-  .title,
-  .github-url {
-    margin-top: 10px;
+  /* Additional adjustments as needed for smaller screens */
+  @media only screen and (max-width: 480px) {
+    .group-members {
+      .profile-pic {
+        width: 70%; /* Further adjust image size for smaller screens */
+      }
+    }
   }
 }
 
-/ Additional adjustments as needed for smaller screens /
-@media only screen and (max-width: 480px) {
-  .profile-pic {
-    width: 70%; / Further adjust image size for smaller screens /
-  }
-}
-
-  }
-}
