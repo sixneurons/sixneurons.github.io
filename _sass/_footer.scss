@@ -12,7 +12,7 @@ footer {
 
 .group-members {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: flex-start; /* Align items at the top */
   margin-top: 20px;
 }
@@ -125,7 +125,7 @@ footer {
   
 .group-members {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: flex-start; /* Align items at the top */
   margin-top: 20px;
 }
@@ -152,11 +152,12 @@ footer {
 @media only screen and (max-width: 480px) {
 
   .profile-pic {
-    width: 40px; /* Set a smaller width for profile pictures */
+    width: 20px; /* Set a smaller width for profile pictures */
+    height: 20px;
   }
 
   .member a {
-    font-size: 14px; /* Adjust font size for member names */
+    font-size: 5px; /* Adjust font size for member names */
   }
 
   .group-members {
