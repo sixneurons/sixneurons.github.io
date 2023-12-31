@@ -4,8 +4,7 @@ photo: /assets/img/anis_pic.png
 name: anis
 display_name: Anis Taluqdar
 position: Machine Learning Engineer
-bio: Email- anis@frei.chat 
-Bulletproof hacker passionate about leather clothes. 
+bio: Email- anis@frei.chat  Bulletproof hacker passionate about leather clothes. 
 github_username: AnisTaluqdar
 facebook_username: AnisTaluqdarBD
 twitter_username: AnisTaluqdar
