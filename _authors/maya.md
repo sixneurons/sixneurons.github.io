@@ -1,15 +1,18 @@
 ---
 layout: author
-photo: https://avatars.githubusercontent.com/u/12247601?v=4
+photo: /assets/img/uploads/profile.png
 name: maya
 display_name: Roksana Parvin
 position: Data Analyst
-bio: 
-github_username: 
-facebook_username: 
-twitter_username: 
-instagram_username: 
-linkedin_username: 
-medium_username: 
+bio: Bulletproof hacker passionate about leather clothes.
+github_username: github_username
+facebook_username: github_username
+twitter_username: github_username
+instagram_username: github_username
+linkedin_username: github_username
+medium_username: github_username
 ---
+
+
+
 
