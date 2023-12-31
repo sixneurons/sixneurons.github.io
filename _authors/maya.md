@@ -5,12 +5,12 @@ name: maya
 display_name: Roksana Parvin
 position: Data Analyst
 bio: Bulletproof hacker passionate about leather clothes.
-github_username: github_username
-facebook_username: github_username
-twitter_username: github_username
-instagram_username: github_username
-linkedin_username: github_username
-medium_username: github_username
+github_username: username
+facebook_username: username
+twitter_username: username
+instagram_username: username
+linkedin_username: username
+medium_username: username
 ---
 
 
