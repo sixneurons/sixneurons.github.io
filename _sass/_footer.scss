@@ -149,15 +149,15 @@ footer {
   color: #1B4D3E;
   text-decoration: none;
 }
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 600px) {
 
   .profile-pic {
-    width: 20px; /* Set a smaller width for profile pictures */
-    height: 20px;
+    width: 400px; /* Set a smaller width for profile pictures */
+    height: 40px;
   }
 
-  .member a {
-    font-size: 5px; /* Adjust font size for member names */
+  .member {
+    font-size: 10px; /* Adjust font size for member names */
   }
 
   .group-members {
