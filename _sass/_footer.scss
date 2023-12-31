@@ -12,40 +12,40 @@
 
 footer {
 
-   .group-members {
-  display: flex;
-  justify-content: space-around;
-  align-items: flex-start; /* Align items at the top */
-  margin-top: 20px;
+    @media only screen and (max-width: 768px) {
+    .group-members {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+
+      .member {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 20px;
+      }
+
+      .profile-pic {
+        width: 50%; /* Adjust image size as needed */
+        height: auto;
+        margin: 0 auto;
+      }
+
+      .title,
+      .github-url {
+        margin-top: 10px;
+      }
+    }
+  }
+
+  /* Additional adjustments as needed for smaller screens */
+  @media only screen and (max-width: 480px) {
+    .group-members {
+      .profile-pic {
+        width: 20%; /* Further adjust image size for smaller screens */
+      }
+    }
+  }
 }
-
-.member {
-  text-align: center;
-  padding: 10px; /* Add padding for spacing between members */
-}
-
-.profile-pic {
-  width: 80px; /* Adjust the size of the profile pictures */
-  height: 80px; /* Adjust the size of the profile pictures */
-  border-radius: 50%;
-  margin-bottom: 5px;
-}
-
-.member a {
-  display: block; /* Make the name take full width */
-  font-weight: bold;
-  margin-bottom: 3px;
-  color: #28a8e1;
-  text-decoration: none;
-}
-
-
-.title {
-  text-align: center;
-  padding: 5px; /* Add padding for spacing between members */
-  color: #1B4D3E; 
-}
-
   @include center(rem(800px));
   border-top: 1px solid darken($accentDark, 10%);
   background: $accentDark;
