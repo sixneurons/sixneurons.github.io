@@ -124,74 +124,29 @@ footer {
     }
 .group-members {
   display: flex;
-  flex-wrap: nowrap; /* Ensure items stay in a single row */
-  justify-content: center;
-  gap: 10px; /* Adjust spacing between members */
+  justify-content: space-between;
+  align-items: flex-start; /* Align items at the top */
   margin-top: 20px;
-  overflow-x: auto; /* Enable horizontal scrolling for smaller screens */
 }
 
 .member {
   text-align: center;
-  padding: 10px;
-  box-sizing: border-box;
-  flex: 0 0 auto; /* Let items adjust size automatically */
-  max-width: calc(15% - 20px); /* Adjust maximum width for responsiveness */
+  padding: 10px; /* Add padding for spacing between members */
 }
 
 .profile-pic {
-  width: 100%;
-  max-width: 60px; /* Reduce profile picture size for smaller screens */
-  height: auto;
+  width: 80px; /* Adjust the size of the profile pictures */
+  height: 80px; /* Adjust the size of the profile pictures */
   border-radius: 50%;
   margin-bottom: 5px;
 }
 
 .member a {
-  display: block;
+  display: block; /* Make the name take full width */
   font-weight: bold;
   margin-bottom: 3px;
   color: #1B4D3E;
   text-decoration: none;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-}
-/* Larger screens */
-@media only screen and (min-width: 601px) {
-  .group-members {
-    gap: 10px; /* Adjust spacing for larger screens */
-    overflow-x: hidden; /* Disable horizontal scrolling */
-  }
-
-  .member {
-    max-width: calc(10% - 20px); /* Adjust maximum width for larger screens */
-  }
-
-  .profile-pic {
-    max-width: 80px; /* Increase profile picture size for larger screens */
-  }
-
-  .member a {
-    font-size: 16px; /* Increase font size for member names */
-  }
-}
-
-
-@media only screen and (max-width: 600px) {
-  .group-members {
-    gap: 5px; /* Adjust spacing further for smaller screens */
-    overflow-x: auto; /* Enable horizontal scrolling */
-    padding-bottom: 10px; /* Add padding at the bottom for better visibility */
-  }
-
-  .member {
-    max-width: calc(30% - 10px); /* Adjust maximum width for smaller screens */
-  }
-
-  .profile-pic {
-    max-width: 40px; /* Further reduce profile picture size for smaller screens */
-  }
 }
 }
 }
