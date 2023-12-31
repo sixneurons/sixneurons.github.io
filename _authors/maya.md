@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/profile.png
+photo: https://avatars.githubusercontent.com/u/12247601?v=4
 name: maya
 display_name: Roksana Parvin
 position: Data Analyst
