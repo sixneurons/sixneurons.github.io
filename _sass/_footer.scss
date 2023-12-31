@@ -157,6 +157,26 @@ footer {
   overflow: hidden;
   text-overflow: ellipsis;
 }
+/* Larger screens */
+@media only screen and (min-width: 601px) {
+  .group-members {
+    gap: 10px; /* Adjust spacing for larger screens */
+    overflow-x: hidden; /* Disable horizontal scrolling */
+  }
+
+  .member {
+    max-width: calc(10% - 20px); /* Adjust maximum width for larger screens */
+  }
+
+  .profile-pic {
+    max-width: 80px; /* Increase profile picture size for larger screens */
+  }
+
+  .member a {
+    font-size: 16px; /* Increase font size for member names */
+  }
+}
+
 
 @media only screen and (max-width: 600px) {
   .group-members {
