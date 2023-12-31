@@ -12,7 +12,7 @@
 
 footer {
 
-    @media only screen and (max-width: 768px) {
+      @media only screen and (max-width: 768px) {
     .group-members {
       display: flex;
       flex-wrap: wrap;
@@ -45,7 +45,6 @@ footer {
       }
     }
   }
-}
   @include center(rem(800px));
   border-top: 1px solid darken($accentDark, 10%);
   background: $accentDark;
