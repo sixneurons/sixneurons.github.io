@@ -150,12 +150,19 @@ footer {
   text-decoration: none;
 }
 @media only screen and (max-width: 480px) {
+
   .profile-pic {
-     justify-content: space-between;
-    }
+    width: 40px; /* Set a smaller width for profile pictures */
+  }
+
+  .member a {
+    font-size: 14px; /* Adjust font size for member names */
+  }
+
   .group-members {
 justify-content: space-between;
 }
+
 
   }
   }
