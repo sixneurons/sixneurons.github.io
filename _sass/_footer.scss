@@ -122,52 +122,57 @@ footer {
     p {
       color: $accentDark;
     }
+.group-members {
+  display: flex;
+  flex-wrap: nowrap; /* Ensure items stay in a single row */
+  justify-content: center;
+  gap: 10px; /* Adjust spacing between members */
+  margin-top: 20px;
+  overflow-x: auto; /* Enable horizontal scrolling for smaller screens */
+}
 
+.member {
+  text-align: center;
+  padding: 10px;
+  box-sizing: border-box;
+  flex: 0 0 auto; /* Let items adjust size automatically */
+  max-width: calc(15% - 20px); /* Adjust maximum width for responsiveness */
+}
+
+.profile-pic {
+  width: 100%;
+  max-width: 60px; /* Reduce profile picture size for smaller screens */
+  height: auto;
+  border-radius: 50%;
+  margin-bottom: 5px;
+}
+
+.member a {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 3px;
+  color: #1B4D3E;
+  text-decoration: none;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+@media only screen and (max-width: 600px) {
   .group-members {
-    display: flex;
-    flex-wrap: wrap; /* Allow items to wrap to the next line */
-    justify-content: center; /* Center align items */
-    gap: 20px; /* Spacing between members */
-    margin-top: 20px;
+    gap: 5px; /* Adjust spacing further for smaller screens */
+    overflow-x: auto; /* Enable horizontal scrolling */
+    padding-bottom: 10px; /* Add padding at the bottom for better visibility */
   }
 
   .member {
-    text-align: center;
-    padding: 10px; /* Add padding for spacing between members */
-    flex: 0 0 calc(15% - 40px); /* Each member takes up 1/3 of the container width */
-    max-width: calc(15% - 40px); /* Limit the maximum width for responsiveness */
-    box-sizing: border-box; /* Include padding in width calculations */
+    max-width: calc(30% - 10px); /* Adjust maximum width for smaller screens */
   }
 
   .profile-pic {
-    width: 100%; /* Make profile pictures fill their container */
-    max-width: 80px; /* Set the maximum width for profile pictures */
-    height: auto; /* Maintain aspect ratio */
-    border-radius: 50%;
-    margin-bottom: 5px;
+    max-width: 40px; /* Further reduce profile picture size for smaller screens */
   }
-
-  .member a {
-    display: block; /* Make the name take full width */
-    font-weight: bold;
-    margin-bottom: 3px;
-    color: #1B4D3E;
-    text-decoration: none;
-    white-space: nowrap; /* Prevent member names from wrapping */
-    overflow: hidden; /* Hide overflowing text */
-    text-overflow: ellipsis; /* Show ellipsis for long names */
-  }
-
-  @media only screen and (max-width: 600px) {
-    .member {
-      flex: 0 0 calc(50% - 30px); /* Each member takes up 1/2 of the container width */
-      max-width: calc(50% - 30px); /* Limit the maximum width for responsiveness */
-    }
-
-    .profile-pic {
-      max-width: 60px; /* Reduce profile picture size for smaller screens */
-    }
-  }
+}
 }
 }
 
