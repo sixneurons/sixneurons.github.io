@@ -133,9 +133,9 @@ footer {
 
   .member {
     text-align: center;
-    padding: 5px; /* Add padding for spacing between members */
-    flex: 0 0 calc(20% - 30px); /* Each member takes up 1/3 of the container width */
-    max-width: calc(20% - 30px); /* Limit the maximum width for responsiveness */
+    padding: 10px; /* Add padding for spacing between members */
+    flex: 0 0 calc(20% - 40px); /* Each member takes up 1/3 of the container width */
+    max-width: calc(20% - 40px); /* Limit the maximum width for responsiveness */
     box-sizing: border-box; /* Include padding in width calculations */
   }
 
