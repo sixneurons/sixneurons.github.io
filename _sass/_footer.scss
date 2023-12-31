@@ -12,39 +12,33 @@
 
 footer {
 
-    .group-members {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-  }
+  .group-members {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 20px;
+}
 
-      .member {
-        width: 100%;
-        text-align: center;
-        margin-bottom: 20px;
-      }
+.member {
+  text-align: center;
+}
 
-      .profile-pic {
-        width: 50%; /* Adjust image size as needed */
-        height: auto;
-        margin: 0 auto;
-      }
+.profile-pic {
+  width: 80px; /* Adjust the size of the profile pictures */
+  height: 80px; /* Adjust the size of the profile pictures */
+  border-radius: 50%;
+  margin-bottom: 5px;
+}
 
-      .title,
-      .github-url {
-        margin-top: 10px;
-      }
-    
-  
+.member-name {
+  font-weight: bold;
+  margin-bottom: 3px;
+}
 
-  /* Additional adjustments as needed for smaller screens */
-  @media only screen and (max-width: 480px) {
-    .group-members {
-      .profile-pic {
-        width: 20%; /* Further adjust image size for smaller screens */
-      }
-    }
-  }
+.github-url {
+  text-decoration: none;
+  color: #333;
+}
   @include center(rem(800px));
   border-top: 1px solid darken($accentDark, 10%);
   background: $accentDark;
@@ -132,39 +126,33 @@ footer {
     }
 
  
-    .group-members {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-    }
+   .group-members {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 20px;
+}
 
-      .member {
-        width: 100%;
-        text-align: center;
-        margin-bottom: 20px;
-      }
+.member {
+  text-align: center;
+}
 
-      .profile-pic {
-        width: 50%; /* Adjust image size as needed */
-        height: auto;
-        margin: 0 auto;
-      }
+.profile-pic {
+  width: 80px; /* Adjust the size of the profile pictures */
+  height: 80px; /* Adjust the size of the profile pictures */
+  border-radius: 50%;
+  margin-bottom: 5px;
+}
 
-      .title,
-      .github-url {
-        margin-top: 10px;
-      }
-    
-  
+.member-name {
+  font-weight: bold;
+  margin-bottom: 3px;
+}
 
-  /* Additional adjustments as needed for smaller screens */
-  @media only screen and (max-width: 480px) {
-    .group-members {
-      .profile-pic {
-        width: 20%; /* Further adjust image size for smaller screens */
-      }
-    }
-  }
+.github-url {
+  text-decoration: none;
+  color: #333;
+}
 }
 }
 
