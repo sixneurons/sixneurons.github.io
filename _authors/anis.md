@@ -3,8 +3,8 @@ layout: author
 photo: /assets/img/anis_pic.png
 name: anis
 display_name: Anis Taluqdar
-position: The One
-bio: Bulletproof hacker passionate about leather clothes.
+position: Machine Learning Engineer
+bio: Bulletproof hacker passionate about leather clothes. Email: anis@frei.chat
 github_username: AnisTaluqdar
 facebook_username: AnisTaluqdarBD
 twitter_username: AnisTaluqdar
