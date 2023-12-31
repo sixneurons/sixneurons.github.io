@@ -151,8 +151,12 @@ footer {
 }
 @media only screen and (max-width: 480px) {
   .profile-pic {
-    width: 80%; /* Further adjust image size for smaller screens */
+     justify-content: space-between;
     }
+  .group-members {
+justify-content: space-between;
+}
+
   }
   }
 }
