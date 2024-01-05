@@ -96,8 +96,6 @@ body {
     border-radius: rem(5px);
     margin: rem(5px) rem(15px) rem(5px) rem(5px);
     position: absolute;
-    right: 50%; /* Move the element to the center */
-    transform: translateX(-50%); /
 
     @include media(">=sm") {
       display: inline-block;
