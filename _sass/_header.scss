@@ -85,6 +85,22 @@ body {
     fill: $accentDark;
     margin: rem(5px);
   }
+  
+  .ukti {
+    display: none;
+    font-size: rem(13px);
+    font-weight: bold;
+    text-decoration: none;
+    color: #FFFFFF;
+    padding: rem(5px) rem(10px);
+    border-radius: rem(5px);
+    float: right;
+    margin: rem(5px) rem(15px) rem(5px) rem(5px);
+
+    @include media(">=sm") {
+      display: inline-block;
+    }
+  }
 
   .get-theme {
     display: none;
