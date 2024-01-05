@@ -88,7 +88,19 @@ body {
   
   .ukti {
     color: #FFFFFF;
+    display: none;
+    font-size: rem(13px);
+    font-weight: bold;
+    text-decoration: none;
+    padding: rem(5px) rem(10px);
+    border-radius: rem(5px);
     float: center;
+    margin: rem(5px) rem(15px) rem(5px) rem(5px);
+
+    @include media(">=sm") {
+      display: inline-block;
+    }
+  }
   }
 
   .get-theme {
