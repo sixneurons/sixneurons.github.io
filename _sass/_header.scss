@@ -106,21 +106,6 @@ body {
   }
 
   
-  .ukti {
-    color: #008080;
-    display: none;
-    font-size: rem(13px);
-    font-weight: bold;
-    text-decoration: none;
-    padding: rem(5px) rem(10px);
-    border-radius: rem(5px);
-    margin: rem(5px) rem(15px) rem(5px) rem(5px);
-    position: absolute;
-
-    @include media(">=sm") {
-      display: inline-block;
-    }
-  }
 
   .get-theme {
     display: none;
