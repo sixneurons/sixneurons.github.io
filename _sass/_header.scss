@@ -87,20 +87,23 @@ body {
   }
     /* Example CSS for Discord icon */
   .discord-icon {
-      display: flex;
-      align-items: center;
-      margin-left: auto; /* Pushes the icon to the right */
-      padding: 0 10px; /* Adjust padding as needed */
-      /* Add more styling as per your design requirements */
+    float: right;
+    width: rem(30px);
+    height: rem(30px);
+    cursor: pointer;
+    margin: 0;
+    @include media(">=sm") {
+      margin: 0 rem(20px) 0 0;
+    }
+  }
   }
   
   /* Example styling for the Discord SVG icon */
   .icon-discord {
-      /* Define styles for the Discord icon */
-      /* Adjust width, height, colors, etc., as needed */
-      width: 30px;
-      height: 30px;
-      fill: #7289da; /* Discord's default color */
+    width: rem(20px);
+    height: rem(20px);
+    margin: rem(5px);
+    fill: #7289da; /* Discord's default color */
   }
 
   
