@@ -85,6 +85,24 @@ body {
     fill: $accentDark;
     margin: rem(5px);
   }
+    /* Example CSS for Discord icon */
+  .discord-icon {
+      display: flex;
+      align-items: center;
+      margin-left: auto; /* Pushes the icon to the right */
+      padding: 0 10px; /* Adjust padding as needed */
+      /* Add more styling as per your design requirements */
+  }
+  
+  /* Example styling for the Discord SVG icon */
+  .icon-discord {
+      /* Define styles for the Discord icon */
+      /* Adjust width, height, colors, etc., as needed */
+      width: 30px;
+      height: 30px;
+      fill: #7289da; /* Discord's default color */
+  }
+
   
   .ukti {
     color: #008080;
