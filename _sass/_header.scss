@@ -99,7 +99,26 @@ body {
  
   /* Example styling for the Discord SVG icon */
   .icon-discord {
-    width: rem(25px);
+    width: rem(30px);
+    height: rem(20px);
+    margin: rem(5px);
+    fill: #7289da; /* Discord's default color */
+  }
+
+  .github-icon {
+    float: right;
+    width: rem(30px);
+    height: rem(30px);
+    cursor: pointer;
+    margin: 0;
+    @include media(">=sm") {
+      margin: 0 rem(20px) 0 0;
+    }
+  }
+ 
+  /* Example styling for the Discord SVG icon */
+  .icon-github {
+    width: rem(20px);
     height: rem(20px);
     margin: rem(5px);
     fill: #7289da; /* Discord's default color */
