@@ -3,7 +3,7 @@ layout: author
 photo: /assets/img/anis_pic.png
 name: anis
 display_name: Anis Taluqdar
-position: Machine Learning Engineer
+position: Autonomous Systems Engineer
 bio: Email- anis@frei.chat
 github_username: AnisTaluqdar
 facebook_username: AnisTaluqdarBD
