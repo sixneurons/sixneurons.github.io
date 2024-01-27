@@ -7,7 +7,7 @@ author: anis
 paginate: true
 ---
 
-#🚀 Welcome to SixNeurons!
+🚀 Welcome to SixNeurons!
 
 Hello there! You've landed in the perfect spot.
 
