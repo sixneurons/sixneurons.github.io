@@ -1,6 +1,7 @@
 ---
 date: 2024-01-06 23:48:05
 layout: post
+title: Hello there! You've landed in the perfect spot
 category: blog
 author: anis
 paginate: true
