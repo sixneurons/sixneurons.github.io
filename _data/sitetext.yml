@@ -111,11 +111,9 @@ en: &DEFAULT_EN
         role: "CEO"
         image: assets/img/team/1699190790017.jpg
         social:
-          - url: https://twitter.com
+          - url: https://twitter.com/aistaluqdar
             icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://linkedin.com/in/anistaluqdar
             icon: fab fa-linkedin-in
       - name: "Fahimul Islam"
         role: "CFO"
