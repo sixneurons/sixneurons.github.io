@@ -358,7 +358,7 @@ es: &DEFAULT_ES
 
   contact:
     title: "Contáctenos"
-    text: "Lorem ipsum or call 123456789"
+    text: " "
     section: contacto
     name: "Nombre*"
     name-validation: "Por favor ingrese su nombre."
