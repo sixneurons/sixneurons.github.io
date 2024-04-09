@@ -79,8 +79,8 @@ en: &DEFAULT_EN
 
   about:
     title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    text: " "
+    body: " We blend cutting-edge technology with creativity to bring innovative solutions to life. As a team passionate about Machine Learning and Computer Vision, we’re committed to making a positive impact in various domains. Empowering businesses and individuals through intelligent applications that enhance efficiency, safety, and convenience. To create practical, user-friendly products that harness the power of AI, making complex tasks simpler and more accessible."
     section: about
 
   clients:
@@ -103,8 +103,8 @@ en: &DEFAULT_EN
 
   team:
     title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    text: " "
+    subtext: 
     section: team
     people:
       - name: "Anis Taluqdar"
