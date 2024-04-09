@@ -38,7 +38,7 @@ en: &DEFAULT_EN
         icon: fas fa-bowl-rice
       - title: "Ethical AI"
         desc: "Ensuring AI solutions are developed and used in a responsible and ethical manner."
-        icon: fas fa-check
+        icon: fa-solid fa-check
 
   portfolio:
     title: "Portfolio"
