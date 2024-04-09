@@ -175,6 +175,27 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
+      - name: "Mudacumura Buno Blaise"
+        role: "Software Engineer"
+        image: assets/img/team/buno.jpeg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+       - name: "Somchai Kradingthong"
+        role: "Machine Learning Engineer"
+        image: assets/img/team/somchai.jpeg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+       
 
   contact:
     title: "Contact Us"
