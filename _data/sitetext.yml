@@ -21,14 +21,23 @@ en: &DEFAULT_EN
     text: "Lorem ipsum"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "AI Strategy and Consulting"
+        desc: "Helping businesses understand AI potential and develop a roadmap for AI implementation."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Custom AI Model Development"
+        desc: "Building tailored AI models to address specific business challenges.."
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+      - title: "Machine Learning Operations (MLOps)"
+        desc: "Providing expertise in deploying, monitoring, and maintaining AI models in production environments."
+        icon: fab fa-markdown
+      - title: "Data Science"
+        desc: "Analyzing data to extract insights and inform decision-making processes."
+        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+      - title: "Generative AI"
+        desc: "Creating content at scale using AI tools, such as text, images, and videos."
+        icon: fas fa-laptop
+      - title: "Ethical AI"
+        desc: "Ensuring AI solutions are developed and used in a responsible and ethical manner."
         icon: fab fa-markdown
 
   portfolio:
