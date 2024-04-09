@@ -185,7 +185,7 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-       - name: "Somchai Kradingthong"
+      - name: "Somchai Kradingthong"
         role: "Machine Learning Engineer"
         image: assets/img/team/somchai.jpeg
         social:
