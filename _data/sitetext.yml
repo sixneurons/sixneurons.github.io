@@ -29,7 +29,7 @@ en: &DEFAULT_EN
         icon: fas fa-code
       - title: "Machine Learning Operations (MLOps)"
         desc: "Providing expertise in deploying, monitoring, and maintaining AI models in production environments."
-        icon: fa-solid fa-clock-rotate-left
+        icon: fas fa-rotate
       - title: "Data Science"
         desc: "Analyzing data to extract insights and inform decision-making processes."
         icon: fas fa-atom
@@ -38,7 +38,7 @@ en: &DEFAULT_EN
         icon: fas fa-bowl-rice
       - title: "Ethical AI"
         desc: "Ensuring AI solutions are developed and used in a responsible and ethical manner."
-        icon: fa-solid fa-check
+        icon: fas fa-check
 
   portfolio:
     title: "Portfolio"
