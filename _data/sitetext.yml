@@ -25,7 +25,7 @@ en: &DEFAULT_EN
         desc: "Helping businesses understand AI potential and develop a roadmap for AI implementation."
         icon: fas fa-bullseye #find more at https://fontawesome.com/icons
       - title: "Custom AI Model Development"
-        desc: "Building tailored AI models to address specific business challenges.."
+        desc: "Building tailored AI models to address specific business challenges."
         icon: fas fa-code
       - title: "Machine Learning Operations (MLOps)"
         desc: "Providing expertise in deploying, monitoring, and maintaining AI models in production environments."
