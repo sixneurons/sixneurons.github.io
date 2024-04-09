@@ -35,7 +35,7 @@ en: &DEFAULT_EN
         icon: fas fa-atom
       - title: "Generative AI"
         desc: "Creating content at scale using AI tools, such as text, images, and videos."
-        icon: fat fa-lightbulb
+        icon: fas fa-lightbulb
       - title: "Ethical AI"
         desc: "Ensuring AI solutions are developed and used in a responsible and ethical manner."
         icon: fas fa-check
