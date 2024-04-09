@@ -23,22 +23,22 @@ en: &DEFAULT_EN
     list:
       - title: "Artificial Intelligence Strategy and Consulting"
         desc: "Helping businesses understand AI potential and develop a roadmap for AI implementation."
-        icon: assets/img/icon/strategic_9445707.png
+        icon: fas bullseye #find more at https://fontawesome.com/icons
       - title: "Custom AI Model Development"
         desc: "Building tailored AI models to address specific business challenges.."
-        icon: assets/img/icon/website_8970147.png
+        icon: fas code
       - title: "Machine Learning Operations (MLOps)"
         desc: "Providing expertise in deploying, monitoring, and maintaining AI models in production environments."
-        icon: assets/img/icon/deep-learning_8982939.png
+        icon: fas fa-clock-rotate-left
       - title: "Data Science"
         desc: "Analyzing data to extract insights and inform decision-making processes."
-        icon: assets/img/icon/data-science_8932269.png
+        icon: fas atom
       - title: "Generative AI"
         desc: "Creating content at scale using AI tools, such as text, images, and videos."
-        icon: assets/img/icon/robot_1985534.png
+        icon: fas bowl-rice
       - title: "Ethical AI"
         desc: "Ensuring AI solutions are developed and used in a responsible and ethical manner."
-        icon: assets/img/icon/robot_3061392.png
+        icon: fas check
 
   portfolio:
     title: "Portfolio"
