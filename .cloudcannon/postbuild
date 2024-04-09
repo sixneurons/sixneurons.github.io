@@ -1,3 +1,0 @@
-npm i
-npx @bookshop/generate
-npx @pagebreak/cli -s _site -o _site
