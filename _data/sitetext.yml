@@ -29,7 +29,7 @@ en: &DEFAULT_EN
         icon: fas fa-code
       - title: "Machine Learning Operations (MLOps)"
         desc: "Providing expertise in deploying, monitoring, and maintaining AI models in production environments."
-        icon: fas fa-clock-rotate-left
+        icon: fa-solid fa-clock-rotate-left
       - title: "Data Science"
         desc: "Analyzing data to extract insights and inform decision-making processes."
         icon: fas fa-atom
