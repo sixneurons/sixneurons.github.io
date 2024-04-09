@@ -110,7 +110,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Fahimul Islam"
         role: "CFO"
-        image: assets/img/team/fahimul.jpg
+        image: assets/img/team/fahimul.jpeg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -120,7 +120,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Roksana Parvin"
         role: "CTO"
-        image: assets/img/team/maya.jpg
+        image: assets/img/team/maya.png
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -130,7 +130,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Jahid Hasan"
         role: "CMO"
-        image: assets/img/team/mjahid.jpg
+        image: assets/img/team/jahid.jpeg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
