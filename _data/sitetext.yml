@@ -98,9 +98,9 @@ en: &DEFAULT_EN
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
+      - name: "Anis Taluqdar"
+        role: "CEO"
+        image: assets/img/team/1699190790017.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -108,9 +108,9 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
+      - name: "Fahimul Islam"
+        role: "CFO"
+        image: assets/img/team/fahimul.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -118,9 +118,49 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
+      - name: "Roksana Parvin"
+        role: "CTO"
+        image: assets/img/team/maya.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Jahid Hasan"
+        role: "CMO"
+        image: assets/img/team/mjahid.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "S H Imran"
+        role: "COO"
+        image: assets/img/team/imran.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Iftekhar Mahmud"
+        role: "CHRO & Software Engineer"
+        image: assets/img/team/iftekhar.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "MD AMINUL ISLAM"
+        role: "Software Engineer"
+        image: assets/img/team/aminul.jpeg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
