@@ -21,7 +21,7 @@ en: &DEFAULT_EN
     text: " "
     section: services
     list:
-      - title: "AI Strategy and Consulting"
+      - title: "Artificial Intelligence Strategy and Consulting"
         desc: "Helping businesses understand AI potential and develop a roadmap for AI implementation."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Custom AI Model Development"
