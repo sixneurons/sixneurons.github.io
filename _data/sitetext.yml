@@ -199,7 +199,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "email us sixneurons@gmail.com"
+    text: "email sixneurons@gmail.com"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
