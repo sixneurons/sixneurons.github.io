@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: Oshma
   subtitle:  A smart eyewear for blind people!
-  thumbnail: "../img/portfolio/oshma.webp"
+  thumbnail: https://raw.githubusercontent.com/sixneurons/sixneurons.github.io/master/assets/img/portfolio/oshma.webp
   
 #what displays when the item is clicked:
 title: Oshma
 subtitle: A smart eyewear for blind people!
-image: "../img/portfolio/oshma.webp"
+image: https://raw.githubusercontent.com/sixneurons/sixneurons.github.io/master/assets/img/portfolio/oshma.webp
 alt: image alt text
 
 ---
