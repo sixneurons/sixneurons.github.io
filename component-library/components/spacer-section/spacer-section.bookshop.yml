@@ -1,0 +1,22 @@
+# Metadata about this component, to be used in the CMS
+spec:
+  structures:
+    - content_blocks
+  label: Spacer section
+  description: This section is used to add the specified space
+  icon: expand
+  tags:
+    - Text
+
+# Defines the structure of this component, as well as the default values
+blueprint:
+  space: 30
+
+# Overrides any fields in the blueprint when viewing this component in the component browser
+preview: {}
+
+# Any extra CloudCannon inputs configuration to apply to the blueprint
+_inputs:
+  space:
+    type: number
+    comment: Pixel value for the spacer section e.g. 30px
