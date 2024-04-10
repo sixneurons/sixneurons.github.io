@@ -221,7 +221,7 @@ en: &DEFAULT_EN
         icon: "fab fa-facebook-f"
       - url: https://www.linkedin.com/company/sixneurons
         icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
+      - url: https://github.com/sixneurons
         icon: "fab fa-github"
       - url: https://instagram.com
         icon: "fab fa-instagram"
