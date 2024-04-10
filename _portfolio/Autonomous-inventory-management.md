@@ -1,0 +1,17 @@
+---
+caption: #what displays in the portfolio grid:
+  title: Autonomous Inventory Management
+  subtitle: Streamlining Retail with Visionary Technology
+  thumbnail: https://raw.githubusercontent.com/sixneurons/sixneurons.github.io/master/assets/img/portfolio/st.jpg
+  
+#what displays when the item is clicked:
+title: Autonomous Inventory Management
+subtitle: Streamlining Retail with Visionary Technology
+image: https://raw.githubusercontent.com/sixneurons/sixneurons.github.io/master/assets/img/portfolio/st.jpg
+alt: image alt text
+
+---
+[Source Code](https://github.com/AnisTaluqdar/Autonomous-inventory-management)
+Leveraging computer vision for real-time, automated shelf tracking in retail environments. This system utilizes advanced algorithms and smart cameras, along with autonomous shelf-scanning robots, to ensure accurate inventory management. It flags out-of-stock items, detects pricing inconsistencies, and facilitates immediate restocking, significantly enhancing operational efficiency and customer satisfaction. Inspired by Schnuck Markets' successful Tally robot pilot, this project aims to address common retail challenges and drive the future of retail automation.
+
+**In progress...**
