@@ -186,7 +186,7 @@ en: &DEFAULT_EN
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Somchai Kradingthong"
-        role: "Machine Learning Engineer"
+        role: "Natural Language Processing Engineer"
         image: assets/img/team/somchai.jpeg
         social:
           - url: https://twitter.com
