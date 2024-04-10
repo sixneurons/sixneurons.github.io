@@ -108,7 +108,7 @@ en: &DEFAULT_EN
     section: team
     people:
       - name: "Anis Taluqdar"
-        role: "CEO"
+        role: "CEO & Deep Learning Engineer"
         image: assets/img/team/1699190790017.jpg
         social:
           - url: https://twitter.com/anistaluqdar
@@ -116,7 +116,7 @@ en: &DEFAULT_EN
           - url: https://linkedin.com/in/anistaluqdar
             icon: fab fa-linkedin-in
       - name: "Fahimul Islam"
-        role: "CFO"
+        role: "CFO & Statistical Learning Engineer"
         image: assets/img/team/fahimul.jpeg
         social:
           - url: https://twitter.com
@@ -126,7 +126,7 @@ en: &DEFAULT_EN
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Roksana Parvin"
-        role: "CTO"
+        role: "CTO & Artificial Intelligence Engineer"
         image: assets/img/team/maya.png
         social:
           - url: https://twitter.com
@@ -136,7 +136,7 @@ en: &DEFAULT_EN
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Jahid Hasan"
-        role: "CMO"
+        role: "CMO & Machine Learning Engineer"
         image: assets/img/team/jahid.jpeg
         social:
           - url: https://twitter.com
@@ -146,7 +146,7 @@ en: &DEFAULT_EN
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "S H Imran"
-        role: "COO"
+        role: "COO & Machine Learning Engineer"
         image: assets/img/team/imran.jpg
         social:
           - url: https://twitter.com
