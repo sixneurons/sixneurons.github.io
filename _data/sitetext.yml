@@ -185,8 +185,6 @@ en: &DEFAULT_EN
     social:
       - url: https://www.linkedin.com/company/sixneurons
         icon: "fab fa-linkedin-in"
-      - url: https://github.com/sixneurons
-        icon: "fab fa-github"
       - url: https://www.youtube.com/@SIXNeurons
         icon: "fab fa-youtube"
 en-US:
