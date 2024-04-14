@@ -17,7 +17,7 @@ url    : "http://sixneurons.tech" # the base hostname & protocol for your site, 
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : SIXNeurons
-email      : sixneurons@gmail.com #this is also the email contact forms will go to
+email      : sixneurons@duck.com #this is also the email contact forms will go to
 description: "Site description"
 author     : Your Name
 # logo:     #optional, defaults to site title
