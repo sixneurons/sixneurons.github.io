@@ -119,81 +119,49 @@ en: &DEFAULT_EN
         role: "CFO & Statistical Learning Engineer"
         image: assets/img/team/fahimul.jpeg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://www.linkedin.com/in/fahimul-islam-a99264181
             icon: fab fa-linkedin-in
       - name: "Roksana Parvin"
         role: "CTO & Artificial Intelligence Engineer"
         image: assets/img/team/maya.png
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://www.linkedin.com/in/roksana-parvin-91466568
             icon: fab fa-linkedin-in
       - name: "Jahid Hasan"
         role: "CMO & Machine Learning Engineer"
         image: assets/img/team/jahid.jpeg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://www.linkedin.com/in/jahid-hasan-688a7985
             icon: fab fa-linkedin-in
       - name: "S H Imran"
         role: "COO & Machine Learning Engineer"
         image: assets/img/team/imran.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://www.linkedin.com/in/imran2938
             icon: fab fa-linkedin-in
       - name: "Iftekhar Mahmud"
         role: "CHRO & Software Engineer"
         image: assets/img/team/iftekhar.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://www.linkedin.com/in/iftekharmahmudofficial
             icon: fab fa-linkedin-in
       - name: "MD AMINUL ISLAM"
         role: "Software Engineer"
         image: assets/img/team/aminul.jpeg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://www.linkedin.com/in/md-aminul-islam-9b6b44235
             icon: fab fa-linkedin-in
       - name: "Mudacumura Buno Blaise"
         role: "Software Engineer"
         image: assets/img/team/buno.jpeg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://www.linkedin.com/in/brunoblaise
             icon: fab fa-linkedin-in
       - name: "Somchai Kradingthong"
         role: "Natural Language Processing Engineer"
         image: assets/img/team/somchai.jpeg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://www.linkedin.com/in/somchai-kradingthong-b1693b144
             icon: fab fa-linkedin-in
        
 
@@ -215,16 +183,12 @@ en: &DEFAULT_EN
   footer:
     legal: "Privacy Policy"
     social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"
-      - url: https://facebook.com
-        icon: "fab fa-facebook-f"
       - url: https://www.linkedin.com/company/sixneurons
         icon: "fab fa-linkedin-in"
       - url: https://github.com/sixneurons
         icon: "fab fa-github"
-      - url: https://instagram.com
-        icon: "fab fa-instagram"
+      - url: https://www.youtube.com/@SIXNeurons
+        icon: "fab fa-youtube"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
