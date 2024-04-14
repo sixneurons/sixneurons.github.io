@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: VisioShelf
   subtitle: Streamlining Retail with Visionary Technology
-  thumbnail: https://raw.githubusercontent.com/sixneurons/sixneurons.github.io/master/assets/img/portfolio/st(1).jpg
+  thumbnail: https://raw.githubusercontent.com/sixneurons/sixneurons.github.io/master/assets/img/portfolio/st%20(1).jpg
   
 #what displays when the item is clicked:
 title: VisioShelf
 subtitle: Streamlining Retail with Visionary Technology
-image: https://raw.githubusercontent.com/sixneurons/sixneurons.github.io/master/assets/img/portfolio/st(1).jpg
+image: https://raw.githubusercontent.com/sixneurons/sixneurons.github.io/master/assets/img/portfolio/st%20(1).jpg
 alt: image alt text
 
 ---
