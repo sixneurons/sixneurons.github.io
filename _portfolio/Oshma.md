@@ -7,7 +7,7 @@ caption: #what displays in the portfolio grid:
 #what displays when the item is clicked:
 title: Oshma
 subtitle: A smart eyewear for blind people!
-image: https://raw.githubusercontent.com/sixneurons/sixneurons.github.io/master/assets/img/portfolio/oshma.webp
+image: https://raw.githubusercontent.com/sixneurons/sixneurons.github.io/master/assets/img/portfolio/oshma(1).webp
 alt: image alt text
 
 ---
