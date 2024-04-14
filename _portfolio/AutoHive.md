@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: AutoHive
   subtitle: Revolutionizing Beekeeping with AI and Computer Vision
-  thumbnail: https://raw.githubusercontent.com/sixneurons/sixneurons.github.io/master/assets/img/portfolio/ab(1).jpeg
+  thumbnail: https://raw.githubusercontent.com/sixneurons/sixneurons.github.io/master/assets/img/portfolio/ab%20(1).jpeg
   
 #what displays when the item is clicked:
 title: AutoHive
 subtitle: Revolutionizing Beekeeping with AI and Computer Vision
-image: https://raw.githubusercontent.com/sixneurons/sixneurons.github.io/master/assets/img/portfolio/ab(1).jpeg
+image: https://raw.githubusercontent.com/sixneurons/sixneurons.github.io/master/assets/img/portfolio/ab%20(1).jpeg
 alt: image alt text
 
 ---
