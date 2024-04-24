@@ -108,7 +108,7 @@ en: &DEFAULT_EN
     section: team
     people:
       - name: "Anis Taluqdar"
-        role: "CEO & Deep Learning Engineer"
+        role: "CEO & AI Engineer"
         image: assets/img/team/1699190790017.jpg
         social:
           - url: https://twitter.com/anistaluqdar
@@ -122,7 +122,7 @@ en: &DEFAULT_EN
           - url: https://www.linkedin.com/in/fahimul-islam-a99264181
             icon: fab fa-linkedin-in
       - name: "Roksana Parvin"
-        role: "CTO & Artificial Intelligence Engineer"
+        role: "CTO & Deep Learning Engineer"
         image: assets/img/team/maya.png
         social:
           - url: https://www.linkedin.com/in/roksana-parvin-91466568
