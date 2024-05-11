@@ -108,7 +108,7 @@ en: &DEFAULT_EN
     section: team
     people:
       - name: "Anis Taluqdar"
-        role: "CEO & AI Engineer"
+        role: "CEO & Artificial Intelligence Researcher"
         image: assets/img/team/1699190790017.jpg
         social:
           - url: https://twitter.com/anistaluqdar
