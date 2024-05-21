@@ -116,7 +116,7 @@ en: &DEFAULT_EN
           - url: https://linkedin.com/in/anistaluqdar
             icon: fab fa-linkedin-in
       - name: "Fahimul Islam"
-        role: "CFO & Statistical Learning Engineer"
+        role: "Data Scientist"
         image: assets/img/team/fahimul.jpeg
         social:
           - url: https://www.linkedin.com/in/fahimul-islam-a99264181
@@ -128,19 +128,19 @@ en: &DEFAULT_EN
           - url: https://www.linkedin.com/in/roksana-parvin-91466568
             icon: fab fa-linkedin-in
       - name: "Jahid Hasan"
-        role: "CMO & Machine Learning Engineer"
+        role: "Machine Learning Engineer"
         image: assets/img/team/jahid.jpeg
         social:
           - url: https://www.linkedin.com/in/jahid-hasan-688a7985
             icon: fab fa-linkedin-in
       - name: "S H Imran"
-        role: "COO & Machine Learning Engineer"
+        role: "Machine Learning Engineer"
         image: assets/img/team/imran.jpg
         social:
           - url: https://www.linkedin.com/in/imran2938
             icon: fab fa-linkedin-in
       - name: "Iftekhar Mahmud"
-        role: "CHRO & Software Engineer"
+        role: "Machine Learning Engineer"
         image: assets/img/team/iftekhar.jpg
         social:
           - url: https://www.linkedin.com/in/iftekharmahmudofficial
@@ -156,12 +156,6 @@ en: &DEFAULT_EN
         image: assets/img/team/buno.jpeg
         social:
           - url: https://www.linkedin.com/in/brunoblaise
-            icon: fab fa-linkedin-in
-      - name: "Somchai Kradingthong"
-        role: "Natural Language Processing Engineer"
-        image: assets/img/team/somchai.jpeg
-        social:
-          - url: https://www.linkedin.com/in/somchai-kradingthong-b1693b144
             icon: fab fa-linkedin-in
        
 
