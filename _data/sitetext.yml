@@ -119,44 +119,37 @@ en: &DEFAULT_EN
         role: "Data Scientist"
         image: assets/img/team/fahimul.jpeg
         social:
-          - url: https://www.linkedin.com/in/fahimul-islam-a99264181
-            icon: fab fa-linkedin-in
+          
       - name: "Roksana Parvin"
-        role: "CTO & Deep Learning Engineer"
+        role: "Deep Learning Engineer"
         image: assets/img/team/maya.png
         social:
-          - url: https://www.linkedin.com/in/roksana-parvin-91466568
-            icon: fab fa-linkedin-in
+        
       - name: "Jahid Hasan"
         role: "Machine Learning Engineer"
         image: assets/img/team/jahid.jpeg
         social:
-          - url: https://www.linkedin.com/in/jahid-hasan-688a7985
-            icon: fab fa-linkedin-in
+        
       - name: "S H Imran"
         role: "Machine Learning Engineer"
         image: assets/img/team/imran.jpg
         social:
-          - url: https://www.linkedin.com/in/imran2938
-            icon: fab fa-linkedin-in
+        
       - name: "Iftekhar Mahmud"
         role: "Machine Learning Engineer"
         image: assets/img/team/iftekhar.jpg
         social:
-          - url: https://www.linkedin.com/in/iftekharmahmudofficial
-            icon: fab fa-linkedin-in
+          
       - name: "MD AMINUL ISLAM"
         role: "Software Engineer"
         image: assets/img/team/aminul.jpeg
         social:
-          - url: https://www.linkedin.com/in/md-aminul-islam-9b6b44235
-            icon: fab fa-linkedin-in
+         
       - name: "Mudacumura Buno Blaise"
         role: "Software Engineer"
         image: assets/img/team/buno.jpeg
         social:
-          - url: https://www.linkedin.com/in/brunoblaise
-            icon: fab fa-linkedin-in
+         
        
 
   contact:
