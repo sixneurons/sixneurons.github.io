@@ -111,10 +111,10 @@ en: &DEFAULT_EN
         role: "Chief Executive Officer"
         image: assets/img/team/1699190790017.jpg
         social:
-          - url: https://twitter.com/anistaluqdar
-            icon: fab fa-twitter
-          - url: https://linkedin.com/in/anistaluqdar
-            icon: fab fa-linkedin-in
+          #- url: https://twitter.com/anistaluqdar
+          #  icon: fab fa-twitter
+          #- url: https://linkedin.com/in/anistaluqdar
+          #  icon: fab fa-linkedin-in
       - name: "Fahimul Islam"
         role: "Data Scientist"
         image: assets/img/team/fahimul.jpeg
