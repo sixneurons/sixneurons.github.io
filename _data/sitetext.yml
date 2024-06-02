@@ -140,6 +140,11 @@ en: &DEFAULT_EN
         image: assets/img/team/iftekhar.jpg
         social:
           
+      - name: "Jamal Hossain"
+        role: "Business Analyst"
+        image: assets/img/team/jamal.jpeg
+        social:
+        
       - name: "MD AMINUL ISLAM"
         role: "Software Engineer"
         image: assets/img/team/aminul.jpeg
