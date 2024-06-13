@@ -12,4 +12,4 @@ alt: image alt text
 
 ---
 
-Leveraging computer vision for real-time, automated shelf tracking in retail environments. This system utilizes advanced algorithms and smart cameras, along with autonomous shelf-scanning robots, to ensure accurate inventory management. It flags out-of-stock items, detects pricing inconsistencies, and facilitates immediate restocking, significantly enhancing operational efficiency and customer satisfaction. Inspired by Schnuck Markets' successful Tally robot pilot, this project aims to address common retail challenges and drive the future of retail automation.
+Climate change modeling is a critical tool in environmental science, used to predict the impact of climate change on various ecosystems. These models simulate the interactions between the atmosphere, oceans, land surface, and ice. They are essential for understanding future climate conditions and for developing strategies to mitigate or adapt to climate change. By incorporating data on greenhouse gas emissions, land use changes, and other factors, these models can forecast changes in temperature, precipitation patterns, sea-level rise, and extreme weather events.
