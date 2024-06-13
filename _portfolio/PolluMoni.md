@@ -12,4 +12,4 @@ alt: image alt text
 
 ---
 
-Leveraging computer vision for real-time, automated shelf tracking in retail environments. This system utilizes advanced algorithms and smart cameras, along with autonomous shelf-scanning robots, to ensure accurate inventory management. It flags out-of-stock items, detects pricing inconsistencies, and facilitates immediate restocking, significantly enhancing operational efficiency and customer satisfaction. Inspired by Schnuck Markets' successful Tally robot pilot, this project aims to address common retail challenges and drive the future of retail automation.
+Pollution monitoring involves the use of sensors and machine learning algorithms to track pollution levels in the environment. This project aims to provide real-time data on air and water quality by deploying a network of sensors that can detect pollutants such as particulate matter, nitrogen oxides, sulfur dioxide, and heavy metals. Machine learning techniques are then applied to analyze the data collected by these sensors, enabling the identification of pollution sources and trends. This information is crucial for public health, environmental protection, and policy-making.
