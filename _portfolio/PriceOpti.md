@@ -1,12 +1,12 @@
 ---
 caption: #what displays in the portfolio grid:
   title: PriceOpti
-  subtitle: Dynamically adjusting prices based on demand and competition.
+  subtitle: Dynamically adjusting prices based on demand and competition
   thumbnail: https://raw.githubusercontent.com/sixneurons/sixneurons.github.io/master/assets/img/portfolio/st%20(1).jpg
   
 #what displays when the item is clicked:
 title: PriceOpti
-subtitle: Dynamically adjusting prices based on demand and competition.
+subtitle: Dynamically adjusting prices based on demand and competition
 image: https://raw.githubusercontent.com/sixneurons/sixneurons.github.io/master/assets/img/portfolio/st%20(1).jpg
 alt: image alt text
 
