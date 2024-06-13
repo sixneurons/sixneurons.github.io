@@ -12,4 +12,4 @@ alt: image alt text
 
 ---
 
-Leveraging computer vision for real-time, automated shelf tracking in retail environments. This system utilizes advanced algorithms and smart cameras, along with autonomous shelf-scanning robots, to ensure accurate inventory management. It flags out-of-stock items, detects pricing inconsistencies, and facilitates immediate restocking, significantly enhancing operational efficiency and customer satisfaction. Inspired by Schnuck Markets' successful Tally robot pilot, this project aims to address common retail challenges and drive the future of retail automation.
+Content moderation on social media platforms involves automatically detecting and filtering out inappropriate content such as hate speech, violence, and explicit material. This is achieved through machine learning algorithms that analyze text, images, and videos to identify content that violates community guidelines. Effective content moderation helps maintain a safe and respectful online environment for users.
