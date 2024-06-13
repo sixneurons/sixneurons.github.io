@@ -139,6 +139,11 @@ en: &DEFAULT_EN
         role: "Machine Learning Engineer"
         image: assets/img/team/iftekhar.jpg
         social:
+        
+      - name: "Mircea Andrei"
+        role: "Country Director, Romania "
+        image: assets/img/team/mircea.jpeg
+        social:
           
       - name: "Jamal Hossain"
         role: "Business Analyst"
