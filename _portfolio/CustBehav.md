@@ -1,15 +1,15 @@
 ---
 caption: #what displays in the portfolio grid:
   title: CustBehav
-  subtitle: Understanding customer preferences and trends.
+  subtitle: Understanding customer preferences and trends
   thumbnail: https://raw.githubusercontent.com/sixneurons/sixneurons.github.io/master/assets/img/portfolio/st%20(1).jpg
   
 #what displays when the item is clicked:
 title: CustBehav
-subtitle: Understanding customer preferences and trends.
+subtitle: Understanding customer preferences and trends
 image: https://raw.githubusercontent.com/sixneurons/sixneurons.github.io/master/assets/img/portfolio/st%20(1).jpg
 alt: image alt text
 
 ---
 
-Leveraging computer vision for real-time, automated shelf tracking in retail environments. This system utilizes advanced algorithms and smart cameras, along with autonomous shelf-scanning robots, to ensure accurate inventory management. It flags out-of-stock items, detects pricing inconsistencies, and facilitates immediate restocking, significantly enhancing operational efficiency and customer satisfaction. Inspired by Schnuck Markets' successful Tally robot pilot, this project aims to address common retail challenges and drive the future of retail automation.
+Customer behavior analysis is the study of consumer actions and preferences to understand trends and patterns. Retailers use this information to tailor marketing strategies, personalize shopping experiences, and improve product offerings. By analyzing data from various touchpoints, such as purchase history, online browsing behavior, and social media interactions, retailers can gain insights into what drives customer decisions and how to better meet their needs.
