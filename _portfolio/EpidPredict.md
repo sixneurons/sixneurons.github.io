@@ -1,12 +1,12 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: VisioShelf
-  subtitle: Streamlining Retail with Visionary Technology
+  title: EpidPredict
+  subtitle: Analyzing data to predict and prevent disease outbreaks.
   thumbnail: https://raw.githubusercontent.com/sixneurons/sixneurons.github.io/master/assets/img/portfolio/st%20(1).jpg
   
 #what displays when the item is clicked:
-title: VisioShelf
-subtitle: Streamlining Retail with Visionary Technology
+title: EpidPredict
+subtitle: Analyzing data to predict and prevent disease outbreaks.
 image: https://raw.githubusercontent.com/sixneurons/sixneurons.github.io/master/assets/img/portfolio/st%20(1).jpg
 alt: image alt text
 
