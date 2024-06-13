@@ -1,12 +1,12 @@
 ---
 caption: #what displays in the portfolio grid:
   title: ProdRecSys
-  subtitle: Personalizing product suggestions for users.
+  subtitle: Personalizing product suggestions for users
   thumbnail: https://raw.githubusercontent.com/sixneurons/sixneurons.github.io/master/assets/img/portfolio/st%20(1).jpg
   
 #what displays when the item is clicked:
 title: ProdRecSys
-subtitle: Personalizing product suggestions for users.
+subtitle: Personalizing product suggestions for users
 image: https://raw.githubusercontent.com/sixneurons/sixneurons.github.io/master/assets/img/portfolio/st%20(1).jpg
 alt: image alt text
 
