@@ -12,4 +12,4 @@ alt: image alt text
 
 ---
 
-Leveraging computer vision for real-time, automated shelf tracking in retail environments. This system utilizes advanced algorithms and smart cameras, along with autonomous shelf-scanning robots, to ensure accurate inventory management. It flags out-of-stock items, detects pricing inconsistencies, and facilitates immediate restocking, significantly enhancing operational efficiency and customer satisfaction. Inspired by Schnuck Markets' successful Tally robot pilot, this project aims to address common retail challenges and drive the future of retail automation.
+Yield prediction models are used to forecast crop yields based on various factors such as weather conditions, soil quality, plant health, and historical yield data. These models help farmers plan their planting schedules, manage resources effectively, and make informed decisions about crop sales and distribution. Accurate yield predictions are crucial for ensuring food security and optimizing supply chains.
