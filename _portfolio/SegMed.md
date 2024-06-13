@@ -1,12 +1,12 @@
 ---
 caption: #what displays in the portfolio grid:
   title: SegMed
-  subtitle: Medical Image Segmentation: Using deep learning to segment medical images for better diagnosis1.
+  subtitle: Using deep learning to segment medical images for better diagnosis1.
   thumbnail: https://raw.githubusercontent.com/sixneurons/sixneurons.github.io/master/assets/img/portfolio/st%20(1).jpg
   
 #what displays when the item is clicked:
 title: SegMed
-subtitle: Medical Image Segmentation: Using deep learning to segment medical images for better diagnosis1.
+subtitle: Using deep learning to segment medical images for better diagnosis1.
 image: https://raw.githubusercontent.com/sixneurons/sixneurons.github.io/master/assets/img/portfolio/st%20(1).jpg
 alt: image alt text
 
