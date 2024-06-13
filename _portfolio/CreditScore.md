@@ -12,4 +12,4 @@ alt: image alt text
 
 ---
 
-Leveraging computer vision for real-time, automated shelf tracking in retail environments. This system utilizes advanced algorithms and smart cameras, along with autonomous shelf-scanning robots, to ensure accurate inventory management. It flags out-of-stock items, detects pricing inconsistencies, and facilitates immediate restocking, significantly enhancing operational efficiency and customer satisfaction. Inspired by Schnuck Markets' successful Tally robot pilot, this project aims to address common retail challenges and drive the future of retail automation.
+Credit scoring is the process of building predictive models to assess an individual’s creditworthiness. These models analyze various factors such as credit history, income, employment status, and other financial behaviors to predict the likelihood of a borrower repaying a loan. The resulting credit score helps lenders make informed decisions about whether to extend credit and at what interest rate. Accurate credit scoring models are essential for maintaining the health of the financial system by reducing the risk of default.
