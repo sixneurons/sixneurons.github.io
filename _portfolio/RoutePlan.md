@@ -12,4 +12,4 @@ alt: image alt text
 
 ---
 
-Leveraging computer vision for real-time, automated shelf tracking in retail environments. This system utilizes advanced algorithms and smart cameras, along with autonomous shelf-scanning robots, to ensure accurate inventory management. It flags out-of-stock items, detects pricing inconsistencies, and facilitates immediate restocking, significantly enhancing operational efficiency and customer satisfaction. Inspired by Schnuck Markets' successful Tally robot pilot, this project aims to address common retail challenges and drive the future of retail automation.
+Route planning algorithms are essential for optimizing logistics and delivery operations. These algorithms calculate the most efficient routes for vehicles to take, considering factors such as distance, traffic conditions, delivery windows, and vehicle capacity. By finding the optimal paths, companies can reduce transportation costs, improve delivery times, and minimize their environmental footprint.
