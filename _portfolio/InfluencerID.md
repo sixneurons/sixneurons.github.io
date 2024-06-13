@@ -12,4 +12,4 @@ alt: image alt text
 
 ---
 
-Leveraging computer vision for real-time, automated shelf tracking in retail environments. This system utilizes advanced algorithms and smart cameras, along with autonomous shelf-scanning robots, to ensure accurate inventory management. It flags out-of-stock items, detects pricing inconsistencies, and facilitates immediate restocking, significantly enhancing operational efficiency and customer satisfaction. Inspired by Schnuck Markets' successful Tally robot pilot, this project aims to address common retail challenges and drive the future of retail automation.
+Influencer identification involves finding influential users on social media platforms based on engagement metrics such as likes, comments, shares, and follower growth. These influencers have the power to affect the purchasing decisions of others due to their authority, knowledge, position, or relationship with their audience. Identifying influencers is crucial for brands looking to leverage social media marketing and reach a wider audience.
