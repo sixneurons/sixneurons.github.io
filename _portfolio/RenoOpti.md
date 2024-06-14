@@ -2,13 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: RenoOpti
   subtitle: Maximizing the efficiency of renewable energy sources
-  thumbnail: https://raw.githubusercontent.com/sixneurons/sixneurons.github.io/master/assets/img/portfolio/st%20(1).jpg
+  thumbnail: 
   
 #what displays when the item is clicked:
 title: RenoOpti
 subtitle: Maximizing the efficiency of renewable energy sources
-image: https://raw.githubusercontent.com/sixneurons/sixneurons.github.io/master/assets/img/portfolio/st%20(1).jpg
-alt: image alt text
+image: 
 
 ---
 
