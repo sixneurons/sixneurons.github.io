@@ -12,4 +12,4 @@ alt: image alt text
 
 ---
 
-CustBot Hero is an AI-powered chatbot tailored for customer support scenarios. It handles common queries, troubleshoots issues, and guides users through solutions. By automating routine tasks, CustBot frees up human agents to focus on more complex customer interactions.
+CustBot is an AI-powered chatbot tailored for customer support scenarios. It handles common queries, troubleshoots issues, and guides users through solutions. By automating routine tasks, CustBot frees up human agents to focus on more complex customer interactions.
