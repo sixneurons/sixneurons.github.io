@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: ClimateModel
   subtitle: Predicting the impact of climate change on various ecosystems
-  thumbnail: https://raw.githubusercontent.com/sixneurons/sixneurons.github.io/master/assets/img/portfolio/st%20(1).jpg
+  thumbnail: 
   
 #what displays when the item is clicked:
 title: ClimateModel
 subtitle: Predicting the impact of climate change on various ecosystems
-image: https://raw.githubusercontent.com/sixneurons/sixneurons.github.io/master/assets/img/portfolio/st%20(1).jpg
+image: 
 alt: image alt text
 
 ---
