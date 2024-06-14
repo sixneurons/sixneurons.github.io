@@ -8,6 +8,7 @@ caption: #what displays in the portfolio grid:
 title: AutoDrive
 subtitle: Self-driving car vision algorithms
 image: 
+alt: image alt text
 
 ---
 
