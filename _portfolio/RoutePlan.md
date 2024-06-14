@@ -2,13 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: RoutePlan
   subtitle: Finding the most efficient routes for logistics and delivery
-  thumbnail: https://raw.githubusercontent.com/sixneurons/sixneurons.github.io/master/assets/img/portfolio/st%20(1).jpg
+  thumbnail: 
   
 #what displays when the item is clicked:
 title: RoutePlan
 subtitle: Finding the most efficient routes for logistics and delivery
-image: https://raw.githubusercontent.com/sixneurons/sixneurons.github.io/master/assets/img/portfolio/st%20(1).jpg
-alt: image alt text
+image: 
 
 ---
 
