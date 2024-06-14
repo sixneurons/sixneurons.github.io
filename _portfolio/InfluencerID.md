@@ -2,13 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: InfluencerID
   subtitle: Finding influential users based on engagement metrics
-  thumbnail: https://raw.githubusercontent.com/sixneurons/sixneurons.github.io/master/assets/img/portfolio/st%20(1).jpg
+  thumbnail: 
   
 #what displays when the item is clicked:
 title: InfluencerID
 subtitle: Finding influential users based on engagement metrics
-image: https://raw.githubusercontent.com/sixneurons/sixneurons.github.io/master/assets/img/portfolio/st%20(1).jpg
-alt: image alt text
+image: 
 
 ---
 
