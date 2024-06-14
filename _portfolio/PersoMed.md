@@ -2,13 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: PersoMed
   subtitle: Developing algorithms for personalized medicine based on patient data
-  thumbnail: https://raw.githubusercontent.com/sixneurons/sixneurons.github.io/master/assets/img/portfolio/st%20(1).jpg
+  thumbnail: 
   
 #what displays when the item is clicked:
 title: PersoMed
 subtitle: Developing algorithms for personalized medicine based on patient data
-image: https://raw.githubusercontent.com/sixneurons/sixneurons.github.io/master/assets/img/portfolio/st%20(1).jpg
-alt: image alt text
+image: 
 
 ---
 
