@@ -2,13 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: TrafficOpti
   subtitle: Reducing congestion using predictive analytics
-  thumbnail: https://raw.githubusercontent.com/sixneurons/sixneurons.github.io/master/assets/img/portfolio/st%20(1).jpg
+  thumbnail: 
   
 #what displays when the item is clicked:
 title: TrafficOpti
 subtitle: Reducing congestion using predictive analytics
-image: https://raw.githubusercontent.com/sixneurons/sixneurons.github.io/master/assets/img/portfolio/st%20(1).jpg
-alt: image alt text
+image: 
 
 ---
 
