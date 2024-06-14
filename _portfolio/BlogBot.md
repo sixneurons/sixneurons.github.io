@@ -8,6 +8,7 @@ caption: #what displays in the portfolio grid:
 title: BlogBot
 subtitle: Automated Content Creation
 image: 
+alt: image alt text
 
 ---
 
