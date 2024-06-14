@@ -2,13 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: SalesPred
   subtitle: Estimating future sales to inform business decisions
-  thumbnail: https://raw.githubusercontent.com/sixneurons/sixneurons.github.io/master/assets/img/portfolio/st%20(1).jpg
+  thumbnail: 
   
 #what displays when the item is clicked:
 title: SalesPred
 subtitle: Estimating future sales to inform business decisions
-image: https://raw.githubusercontent.com/sixneurons/sixneurons.github.io/master/assets/img/portfolio/st%20(1).jpg
-alt: image alt text
+image: 
 
 ---
 
