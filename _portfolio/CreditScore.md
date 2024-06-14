@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: CreditScore
   subtitle: Building predictive models for assessing creditworthiness.
-  thumbnail: https://raw.githubusercontent.com/sixneurons/sixneurons.github.io/master/assets/img/portfolio/st%20(1).jpg
+  thumbnail: 
   
 #what displays when the item is clicked:
 title: CreditScore
 subtitle: Building predictive models for assessing creditworthiness.
-image: https://raw.githubusercontent.com/sixneurons/sixneurons.github.io/master/assets/img/portfolio/st%20(1).jpg
+image: 
 alt: image alt text
 
 ---
