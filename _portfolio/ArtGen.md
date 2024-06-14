@@ -8,6 +8,7 @@ caption: #what displays in the portfolio grid:
 title: ArtGen
 subtitle: Generative art using computer vision
 image: 
+alt: image alt text
 
 ---
 
